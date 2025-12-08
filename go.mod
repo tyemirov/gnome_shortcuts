@@ -1,4 +1,4 @@
-module github.com/temirov/gnome_shortcuts
+module github.com/tyemirov/gnome_shortcuts
 
 go 1.24.2
 
